@@ -1,2 +1,2 @@
-# Agenda Telefonica
- Cadastramento de agenda telefonica
+# Projeto_2_Ebac
+ Segundo projeto do curso Front End da EBAC
